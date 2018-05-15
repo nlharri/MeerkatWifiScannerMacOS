@@ -123,8 +123,6 @@ int main(int argc, const char * argv[]) {
     
     // End curses mode
     endwin();
-    
-    cout << "Normal exit" << endl;
     return 0;
 }
 
