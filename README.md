@@ -1,0 +1,2 @@
+# MeerkatWifiScannerMacOS
+WifiScanner for MacOS
