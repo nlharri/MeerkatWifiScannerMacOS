@@ -1,5 +1,5 @@
-# Meerkat Wifi Scanner for MacOS
-Wifi Scanner command line util for MacOS
+# Wifi Scanner Console App for MacOS
+Wifi Scanner command line tool for MacOS
 
 This is a command line tool which lists the available access points with the following data:
 - SSID
